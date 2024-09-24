@@ -1,21 +1,4 @@
-<style type="text/css">
-    p.p1 {
-        margin: 0.0px 0.0px 0.0px 0.0px;
-        font: 18.0px Menlo;
-        color: #ffffff;
-        color: rgba(255, 255, 255, 0.85);
-        background-color: #1f1f24
-    }
 
-    p.p2 {
-        margin: 0.0px 0.0px 0.0px 0.0px;
-        font: 18.0px Menlo;
-        color: #ffffff;
-        color: rgba(255, 255, 255, 0.85);
-        background-color: #1f1f24;
-        min-height: 21.0px
-    }
-</style>
 <h1>Overview</h1>
 <p>TechSee provides an iOS Mobile SDK for iOS integration. The TechSee iOS SDK is designed to embed the TechSee Visual Assistance application within a customer&apos;s mobile application. The SDK offers comprehensive functionality for joining a TechSee session from the hosting app. The purpose of this document is to furnish a technical overview of the API along with code examples.</p>
 <h2>SDK Features&nbsp;</h2>
